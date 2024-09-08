@@ -1,18 +1,24 @@
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = https://github.com/Ghoul072/nvim-config.git
+  branch = main
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
+  branch = master
 [submodule ".config/zsh/plugins/zsh-autosuggestions"]
 	path = .config/zsh/plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
+  branch = master
 [submodule ".config/zsh/themes/powerlevel10k"]
 	path = .config/zsh/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+  branch = main
 [submodule ".config/zsh/plugins/zsh-syntax-highlighting"]
 	path = .config/zsh/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+  branch = master
 [submodule ".tmux/plugins/tpm"]
 	path = .tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+  branch = master
